@@ -1,6 +1,6 @@
 # Capstone_Design_4_1
 
---
+
 ### Report
 <img src= "https://github.com/ASOTEA/Capstone_Design_4_1/assets/113418652/63405783-13f0-4e08-8b98-128937e7b4c1" width="200" height="300"/>
 <img src= "https://github.com/ASOTEA/Capstone_Design_4_1/assets/113418652/83ad1f43-34eb-4315-a6c6-1effc2506f49" width="200" height="300"/>
@@ -13,3 +13,37 @@
 ---
 
 
+### Labeling.ipynb
+
+#### Data Is Processed
+
+- tabel_data and image data is Data inconsistency
+    - **"There's a mismatch between datasets 'a' and 'b' due to more rows in 'a' than images in 'b'."**
+- Extract and process data with purpose
+
+### Simple CNNs test
+
+#### toy_project.ipynb
+
+- Extract and process data with purpose
+- CNN(base), LeNet-5, AlexNet, VGG, ResNet
+
+
+
+
+----
+
+### Project model results
+
+
+
+
+<img src= "https://github.com/ASOTEA/Capstone_Design_4_1/assets/113418652/07ca46b4-1729-4a7f-9f42-551a49671522" width="502" height="238"/>
+
+
+
+
+### Project conclusion
+  - The task01 classification model performs poorly as it becomes more complex
+
+---
